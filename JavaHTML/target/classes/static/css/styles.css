@@ -1,0 +1,25 @@
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+
+h2 {
+    color: #444;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
